@@ -258,7 +258,7 @@ Planned studies:
 - Diabetes Classification
 - Credit Card Fraud Detection
 
-Links will be added as notebooks are published.
+(https://www.kaggle.com/code/yashashree01/day-1-what-is-machine-learning-research)
 
 ---
 
