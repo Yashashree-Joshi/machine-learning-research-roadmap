@@ -304,31 +304,6 @@ In the next chapters, we'll learn how to execute each part of the workflow.
 
 ---
 
-## 🚀 Continue the Journey
-
-### Previous Chapter
-
-← [Day 1 — What is Machine Learning Research?](../Day-01-What-Is-ML-Research)
-
----
-
-### Next Chapter
-
-➡️ Day 3 — Research Question Formulation
-
-In the next chapter, we'll learn how to create research questions that are:
-
-- Specific
-- Measurable
-- Researchable
-- Impactful
-
-We'll also see the difference between weak questions and strong research questions.
-
----
-
----
-
 ## 📓 Companion Kaggle Notebook
 
 A practical notebook version of this chapter is available on Kaggle.
@@ -360,43 +335,11 @@ In the next chapter, we'll learn how to create research questions that are:
 We'll also see the difference between weak questions and strong research questions.
 
 ---
-## 📓 Companion Kaggle Notebook
-
-A practical notebook version of this chapter is available on Kaggle.
-
-**Day 2: The Machine Learning Research Workflow**
-
-🔗 Kaggle Notebook: *(Coming Soon)*
-
-The Kaggle version includes:
-
-- Titanic workflow example
-- Dataset exploration
-- Research workflow visualization
-- Practical implementation
-
----
-
 ## 🚀 Continue the Journey
 
 ### Previous Chapter
 
 ← [Day 1 — What is Machine Learning Research?](../Day-01-What-Is-ML-Research)
-
----
-
-### Next Chapter
-
-➡️ Day 3 — Research Question Formulation
-
-In the next chapter, we'll learn how to create research questions that are:
-
-- Specific
-- Measurable
-- Researchable
-- Impactful
-
-We'll also see the difference between weak questions and strong research questions.
 
 ---
 
