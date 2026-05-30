@@ -267,7 +267,9 @@ Planned studies:
 ## Day 2 — Research Workflow
 
 Tomorrow we'll learn how researchers move from an idea to a scientifically validated conclusion.
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-02-The-ML-Research-Workflow
+
+
+(https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-02-The-ML-Research-Workflow)
 ---
 
 ⭐ If you're following this roadmap, consider starring the repository and joining the journey.
