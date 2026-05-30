@@ -310,7 +310,7 @@ A practical notebook version of this chapter is available on Kaggle.
 
 **Day 2: The Machine Learning Research Workflow**
 
-🔗 Kaggle Notebook: *(Coming Soon)*
+🔗 Kaggle Notebook: *(https://www.kaggle.com/code/yashashree01/day-2-the-machine-learning-research-workflow)*
 
 The Kaggle version includes:
 
