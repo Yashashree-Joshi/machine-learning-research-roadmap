@@ -486,7 +486,7 @@ In the next chapter, we'll learn how to perform an effective literature review a
 
 A practical notebook version of this chapter will be available on Kaggle.
 
-🔗 Kaggle Notebook: *(Coming Soon)*
+🔗 Kaggle Notebook: *([Day 4 kaggle Notebook](https://www.kaggle.com/code/yashashree01/day-4-hypothesis-creation))*
 
 The notebook will include:
 
