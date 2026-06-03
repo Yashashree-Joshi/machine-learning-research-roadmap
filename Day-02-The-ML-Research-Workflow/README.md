@@ -333,6 +333,7 @@ In the next chapter, we'll learn how to create research questions that are:
 - Impactful
 
 We'll also see the difference between weak questions and strong research questions.
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-03-Research-Question-Formulation
 
 ---
 ## 🚀 Continue the Journey
