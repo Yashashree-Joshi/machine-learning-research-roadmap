@@ -262,6 +262,29 @@ Planned studies:
 
 ---
 
+# 📚 References
+
+The concepts introduced in this chapter are based on foundational texts and educational resources in machine learning and research methodology.
+
+1. Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*. Springer.
+
+2. Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
+
+3. Mitchell, T. M. (1997). *Machine Learning*. McGraw-Hill.
+
+4. Russell, S., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
+
+5. Murphy, K. P. (2022). *Probabilistic Machine Learning: An Introduction*. MIT Press.
+
+6. Ng, A. (Machine Learning & AI Courses). DeepLearning.AI.
+
+7. Scikit-learn Developers. *Scikit-learn User Guide*. https://scikit-learn.org/stable/user_guide.html
+
+---
+
+**Note:** This chapter is an educational introduction to machine learning research. Readers are encouraged to explore the referenced books and official documentation for deeper theoretical understanding and practical implementation.
+
+
 # ⏭️ Next Chapter
 
 ## Day 2 — Research Workflow
