@@ -320,6 +320,29 @@ The Kaggle version includes:
 - Practical implementation
 
 ---
+# 📚 References & Further Reading
+
+The workflow and research practices discussed in this chapter are inspired by established machine learning methodologies, research frameworks, and industry best practices.
+
+1. Chapman, P., Clinton, J., Kerber, R., Khabaza, T., Reinartz, T., Shearer, C., & Wirth, R. (2000). *CRISP-DM 1.0: Step-by-Step Data Mining Guide*. CRISP-DM Consortium.
+
+2. Shearer, C. (2000). *The CRISP-DM Model: The New Blueprint for Data Mining*. Journal of Data Warehousing, 5(4), 13–22.
+
+3. Wirth, R., & Hipp, J. (2000). *CRISP-DM: Towards a Standard Process Model for Data Mining*. Proceedings of the Fourth International Conference on the Practical Applications of Knowledge Discovery and Data Mining.
+
+4. Provost, F., & Fawcett, T. (2013). *Data Science for Business*. O'Reilly Media.
+
+5. Géron, A. (2023). *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (3rd ed.). O'Reilly Media.
+
+6. Scikit-learn Developers. *Scikit-learn User Guide*. https://scikit-learn.org/stable/user_guide.html
+
+7. Kaggle Learn. *Intro to Machine Learning*. https://www.kaggle.com/learn
+
+---
+
+**Note:** This chapter presents a simplified research workflow designed for educational purposes. Real-world machine learning research is often iterative, requiring multiple cycles of experimentation, evaluation, and refinement before reaching final conclusions.
+
+---
 
 ### Next Chapter
 
