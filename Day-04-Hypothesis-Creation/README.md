@@ -467,6 +467,30 @@ Experiment
 
 ---
 
+# 📚 References & Further Reading
+
+The concepts presented in this chapter are based on established research methodology, hypothesis formulation, and scientific investigation practices.
+
+1. Creswell, J. W., & Creswell, J. D. (2023). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (7th ed.). SAGE Publications.
+
+2. Booth, W. C., Colomb, G. G., & Williams, J. M. (2016). *The Craft of Research* (4th ed.). University of Chicago Press.
+
+3. Kumar, R. (2020). *Research Methodology: A Step-by-Step Guide for Beginners* (5th ed.). SAGE Publications.
+
+4. Trochim, W. M. K., Donnelly, J. P., & Arora, K. (2016). *Research Methods: The Essential Knowledge Base* (2nd ed.). Cengage Learning.
+
+5. Montgomery, D. C., & Runger, G. C. (2018). *Applied Statistics and Probability for Engineers* (7th ed.). Wiley.
+
+6. National Institutes of Health (NIH). *Research Methods Resources*. https://researchtraining.nih.gov
+
+7. American Psychological Association (APA). *APA Style*. https://apastyle.apa.org
+
+---
+
+**Note:** This chapter focuses on developing clear, testable hypotheses and understanding the role of null (H₀) and alternative (H₁) hypotheses in the research process. The Titanic dataset is used only as an educational example to demonstrate hypothesis creation. Formal hypothesis testing, statistical significance, and p-value analysis are covered in later stages of the research workflow.
+
+---
+
 # 🚀 Next Chapter
 
 ## Day 5 — Literature Review
