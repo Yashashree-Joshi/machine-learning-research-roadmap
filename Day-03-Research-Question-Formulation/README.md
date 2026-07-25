@@ -391,6 +391,31 @@ Using the Titanic dataset, formulate three different research questions and iden
 
 > Weak questions lead to weak conclusions.
 ---
+
+# 📚 References & Further Reading
+
+The concepts presented in this chapter are based on established research methodology and scientific inquiry practices used across academia and industry.
+
+1. Booth, W. C., Colomb, G. G., & Williams, J. M. (2016). *The Craft of Research* (4th ed.). University of Chicago Press.
+
+2. Creswell, J. W., & Creswell, J. D. (2023). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (7th ed.). SAGE Publications.
+
+3. Kumar, R. (2020). *Research Methodology: A Step-by-Step Guide for Beginners* (5th ed.). SAGE Publications.
+
+4. Punch, K. F. (2014). *Introduction to Social Research: Quantitative and Qualitative Approaches* (3rd ed.). SAGE Publications.
+
+5. Saunders, M., Lewis, P., & Thornhill, A. (2019). *Research Methods for Business Students* (8th ed.). Pearson.
+
+6. National Institutes of Health (NIH). *Developing a Research Question*. https://www.nih.gov
+
+7. Google Scholar. *Google Scholar*. https://scholar.google.com
+
+---
+
+**Note:** This chapter introduces the principles of formulating clear and meaningful research questions. While the examples use the Titanic dataset for demonstration, the same principles apply across scientific research, data science, engineering, healthcare, and many other disciplines.
+
+---
+
 # 🚀 Next Chapter
 
 ## Day 4 — Hypothesis Creation
