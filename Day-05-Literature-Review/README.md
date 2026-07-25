@@ -587,6 +587,32 @@ Future Research
 
 ---
 
+# 📚 References & Further Reading
+
+The concepts discussed in this chapter are based on established academic guidance for reading, analyzing, and interpreting scientific research papers.
+
+1. Keshav, S. (2007). *How to Read a Paper*. ACM SIGCOMM Computer Communication Review, 37(3), 83–84.
+
+2. Booth, W. C., Colomb, G. G., & Williams, J. M. (2016). *The Craft of Research* (4th ed.). University of Chicago Press.
+
+3. Day, R. A., & Gastel, B. (2022). *How to Write and Publish a Scientific Paper* (9th ed.). Cambridge University Press.
+
+4. Glasman-Deal, H. (2020). *Science Research Writing for Non-Native Speakers of English* (2nd ed.). Imperial College Press.
+
+5. Elsevier Researcher Academy. *How to Read a Scientific Paper*. https://researcheracademy.elsevier.com
+
+6. Nature Masterclasses. *Reading and Understanding Research Papers*. https://masterclasses.nature.com
+
+7. Google Scholar. *Google Scholar*. https://scholar.google.com
+
+8. arXiv. *Open Access e-Print Repository*. https://arxiv.org
+
+---
+
+**Note:** This chapter introduces practical strategies for reading research papers efficiently. The workflow presented here is intended to help beginners identify the most important sections of a paper, understand the author's methodology and findings, and critically evaluate the quality and relevance of published research. Readers are encouraged to consult original research papers from reputable journals and conferences to strengthen their research skills.
+
+---
+
 # 🚀 Next Chapter
 
 ## Day 6 — Reading Research Papers
