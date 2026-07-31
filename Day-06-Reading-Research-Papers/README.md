@@ -349,6 +349,110 @@ Don't measure your progress by the number of papers you finish.
 
 Measure it by how well you understand the ideas, evaluate the research, and apply what you've learned to your own projects.
 
+---
+
+# 🎯 Challenge
+
+Choose a machine learning research paper from a reputable source such as Google Scholar, arXiv, or a top AI conference (NeurIPS, ICML, ICLR, CVPR, ACL).
+
+Using the techniques learned in this chapter:
+
+* [ ] Apply the Three-Pass Reading Strategy.
+* [ ] Complete the Research Paper Reading Checklist.
+* [ ] Identify the paper's research problem.
+* [ ] Summarize the proposed methodology in your own words.
+* [ ] Record the key findings.
+* [ ] Identify at least one limitation of the paper.
+* [ ] Write down one possible future research direction inspired by the paper.
+
+💡 **Bonus Challenge:** Read a second paper on the same topic and compare how the two approaches differ.
+
+---
+
+# ✅ Key Takeaways
+
+In this chapter, you learned how to approach research papers like a researcher rather than simply reading them from beginning to end.
+
+### 📌 Key Lessons
+
+* Research papers are the primary source of new scientific knowledge.
+* Understanding the structure of a paper makes reading more efficient.
+* The Three-Pass Reading Strategy helps you decide how deeply to read a paper.
+* A structured checklist ensures that important information is not overlooked.
+* Critical reading involves questioning methodologies, interpreting results, and recognizing limitations.
+* Reading research papers is a skill that improves with consistent practice.
+
+---
+
+## 📖 Reading Workflow
+
+Find a Paper
+
+↓
+
+Understand Its Structure
+
+↓
+
+Apply the Three-Pass Strategy
+
+↓
+
+Use the Reading Checklist
+
+↓
+
+Critically Evaluate the Paper
+
+↓
+
+Identify Ideas for Future Research
+
+---
+
+Every paper you read builds your understanding of the field and prepares you to conduct better machine learning research.
+
+---
+
+# 🚀 Next Chapter
+
+## Day 7 — Identifying Research Gaps
+
+Reading research papers is only the beginning.
+
+The next step is learning how to compare multiple studies, recognize unanswered questions, identify limitations in existing research, and discover opportunities for new contributions.
+
+In the next chapter, you'll learn how researchers transform observations from the literature into meaningful and impactful research ideas.
+
+---
+
+# 📚 References & Further Reading
+
+The concepts, strategies, and best practices presented in this chapter are based on established academic literature and educational resources for reading and evaluating scientific research papers.
+
+1. Keshav, S. (2007). *How to Read a Paper*. ACM SIGCOMM Computer Communication Review, 37(3), 83–84.
+
+2. Booth, W. C., Colomb, G. G., & Williams, J. M. (2016). *The Craft of Research* (4th ed.). University of Chicago Press.
+
+3. Day, R. A., & Gastel, B. (2022). *How to Write and Publish a Scientific Paper* (9th ed.). Cambridge University Press.
+
+4. Glasman-Deal, H. (2020). *Science Research Writing for Non-Native Speakers of English* (2nd ed.). Imperial College Press.
+
+5. Elsevier Researcher Academy. (n.d.). *How to Read a Scientific Paper*. https://researcheracademy.elsevier.com
+
+6. Nature Masterclasses. (n.d.). *Reading and Understanding Research Papers*. https://masterclasses.nature.com
+
+7. Google Scholar. (n.d.). *Google Scholar*. https://scholar.google.com
+
+8. arXiv. (n.d.). *Open Access e-Print Repository*. https://arxiv.org
+
+9. IEEE Xplore Digital Library. (n.d.). https://ieeexplore.ieee.org
+
+10. ACM Digital Library. (n.d.). https://dl.acm.org
+
+---
+
+**Note:** This chapter provides a beginner-friendly guide to reading research papers efficiently. The Three-Pass Reading Strategy is adapted from S. Keshav's *How to Read a Paper* (2007), while the remaining guidance is informed by established research methodology texts, scientific writing resources, and academic publishing best practices. Readers are encouraged to explore the original references for a deeper understanding of research paper analysis and critical reading techniques.
 
 
 Every section of a research paper has a specific purpose. Understanding what each section is meant to communicate allows you to read papers more efficiently instead of treating every page with equal importance.
