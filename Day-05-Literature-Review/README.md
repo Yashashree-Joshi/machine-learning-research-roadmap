@@ -589,7 +589,7 @@ Future Research
 
 # 📚 References & Further Reading
 
-The concepts discussed in this chapter are based on established academic guidance for reading, analyzing, and interpreting scientific research papers.
+The concepts discussed in this chapter are based on established academic guidance for reading, analyzing, and interpreting scientific research papers for literature review.
 
 1. Keshav, S. (2007). *How to Read a Paper*. ACM SIGCOMM Computer Communication Review, 37(3), 83–84.
 
