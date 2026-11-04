@@ -291,8 +291,8 @@ The concepts introduced in this chapter are based on foundational texts and educ
 
 Tomorrow we'll learn how researchers move from an idea to a scientifically validated conclusion.
 
-(https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-02-The-ML-Research-Workflow)
- 
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-02-The-ML-Research-Workflow
+
 ---
 
 ⭐ If you're following this roadmap, consider starring the repository and joining the journey.
