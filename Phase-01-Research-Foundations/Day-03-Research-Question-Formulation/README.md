@@ -463,10 +463,10 @@ The notebook will include:
 ### Next Chapter
 
 ➡️ Day 4 — Hypothesis Creation
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-04-Hypothesis-Creation
+(https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-04-Hypothesis-Creation)
 
 ---
 
 ## 📚 Machine Learning Research Roadmap
 
-🏠 [Repository Homepage](../README.md)
+🏠 [Repository Homepage](https://github.com/Yashashree-Joshi/machine-learning-research-roadmap)
