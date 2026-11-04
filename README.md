@@ -136,3 +136,44 @@ By completing this roadmap, I aim to develop the ability to:
 
 The first chapter introduces the mindset shift from building machine learning projects to conducting machine learning research.
 https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-01-What-Is-ML-Research
+
+---
+
+## 📚 Roadmap
+
+### Phase 1 — Research Foundations
+<badge>Completed: Days 1–7</badge>
+
+- [Day 1 — What is Machine Learning Research?](Phase-01-Research-Foundations/Day-01-What-Is-ML-Research/README.md)
+- [Day 2 — Machine Learning Research Workflow](Phase-01-Research-Foundations/Day-02-The-ML-Research-Workflow/README.md)
+- [Day 3 — Research Question Formulation](Phase-01-Research-Foundations/Day-03-Research-Question-Formulation/README.md)
+- [Day 4 — Hypothesis Creation](Phase-01-Research-Foundations/Day-04-Hypothesis-Creation/README.md)
+- [Day 5 — Literature Review](Phase-01-Research-Foundations/Day-05-Literature-Review/README.md)
+- [Day 6 — Reading Research Papers](Phase-01-Research-Foundations/Day-06-Reading-Research-Papers/README.md)
+- [Day 7 — Identifying Research Gaps](Phase-01-Research-Foundations/Day-07-Identifying-Research-Gaps/README.md)
+
+### Phase 2 — Experimental Design
+*Coming Soon*
+
+- Dataset Selection
+- Baseline Models
+- Experimental Methodology
+- Reproducibility
+- Evaluation Metrics
+- Cross Validation
+- Statistical Testing
+
+### Phase 3 — Applied Machine Learning Research
+*Coming Soon*
+
+- Tabular Data Research
+- Feature Engineering Studies
+- NLP Research
+- Computer Vision Research
+- Explainable AI
+- Deep Learning Experiments
+
+### Phase 4 — Capstone Research Project
+*Coming Soon*
+
+An end-to-end machine learning research study.
