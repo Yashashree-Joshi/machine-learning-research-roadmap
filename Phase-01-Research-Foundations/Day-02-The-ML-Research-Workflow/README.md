@@ -310,7 +310,7 @@ A practical notebook version of this chapter is available on Kaggle.
 
 **Day 2: The Machine Learning Research Workflow**
 
-🔗 Kaggle Notebook: *(https://www.kaggle.com/code/yashashree01/day-2-the-machine-learning-research-workflow)*
+🔗 Kaggle Notebook: [Day 2 — Machine Learning Research Workflow](https://www.kaggle.com/code/yashashree01/day-2-the-machine-learning-research-workflow)
 
 The Kaggle version includes:
 
@@ -356,7 +356,7 @@ In the next chapter, we'll learn how to create research questions that are:
 - Impactful
 
 We'll also see the difference between weak questions and strong research questions.
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-03-Research-Question-Formulation
+[Day 3 — Research Question Formulation](https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-03-Research-Question-Formulation)
 
 ---
 ## 🚀 Continue the Journey
