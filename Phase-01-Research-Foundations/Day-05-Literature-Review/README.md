@@ -636,7 +636,7 @@ A good literature review depends on understanding research papers.
 
 A practical notebook version of this chapter will be available on Kaggle.
 
-🔗 Kaggle Notebook: *([Kaggle Notebook Day 5](https://www.kaggle.com/code/yashashree01/day-5-literature-review))*
+🔗 Kaggle Notebook: [Kaggle Notebook — Day 5: Literature Review](https://www.kaggle.com/code/yashashree01/day-5-literature-review)
 
 The notebook will include:
 
