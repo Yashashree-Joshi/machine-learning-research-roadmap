@@ -668,4 +668,4 @@ https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/
 
 ## 📚 Machine Learning Research Roadmap
 
-🏠 [Repository Homepage](../README.md)
+🏠 [Repository Homepage](../../README.md)
