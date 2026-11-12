@@ -424,6 +424,8 @@ The next step is learning how to compare multiple studies, recognize unanswered 
 
 In the next chapter, you'll learn how researchers transform observations from the literature into meaningful and impactful research ideas.
 
+[Day 7 — Identifying Research Gaps](https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-07-Identifying-Research-Gaps)
+
 ---
 
 # 📚 References & Further Reading
