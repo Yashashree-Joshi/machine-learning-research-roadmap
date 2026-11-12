@@ -105,14 +105,40 @@ An end-to-end machine learning research study including:
 machine-learning-research-roadmap/
 │
 ├── README.md
+├── .gitignore
 │
-├── Day-01-What-Is-ML-Research/
-├── Day-02-Research-Workflow/
-├── Day-03-Research-Questions/
-│── .....
-├── Research-Projects/
-│
-└── assets/
+└── Phase-01-Research-Foundations/
+    │
+    ├── Day-01-What-Is-ML-Research/
+    │   ├── README.md
+    │   └── assets/
+    │
+    ├── Day-02-The-ML-Research-Workflow/
+    │   ├── README.md
+    │   ├── day_2_the_machine_learning_research_workflow.py
+    │   └── assets/
+    │
+    ├── Day-03-Research-Question-Formulation/
+    │   ├── README.md
+    │   ├── day_3_research_question_formulation.py
+    │   └── assets/
+    │
+    ├── Day-04-Hypothesis-Creation/
+    │   ├── README.md
+    │   ├── day_4_hypothesis_creation.py
+    │   └── assets/
+    │
+    ├── Day-05-Literature-Review/
+    │   ├── README.md
+    │   └── assets/
+    │
+    ├── Day-06-Reading-Research-Papers/
+    │   ├── README.md
+    │   └── Research-Lab-01/
+    │       └── README.md
+    │
+    └── Day-07-Identifying-Research-Gaps/
+        └── README.md
 ```
 
 ---
