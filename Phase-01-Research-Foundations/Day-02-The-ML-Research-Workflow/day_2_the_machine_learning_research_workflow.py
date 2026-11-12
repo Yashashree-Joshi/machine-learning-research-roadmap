@@ -22,7 +22,7 @@ Titanic Research Starter Pack
 
 📚 **Companion GitHub Chapter**
 
-(https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/5597bd1c90a40af88b060f07169eb18e5d1b43f9/Day-02-The-ML-Research-Workflow)
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-02-The-ML-Research-Workflow
 
 ---
 
@@ -391,7 +391,7 @@ https://github.com/Yashashree-Joshi/machine-learning-research-roadmap
 
 ### Day 2 GitHub Chapter
 
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-02-The-ML-Research-Workflow
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-02-The-ML-Research-Workflow
 
 ---
 
@@ -399,7 +399,7 @@ https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/
 
 📦 Titanic Research Starter Pack
 
-(https://www.kaggle.com/datasets/yashashree01/titanic-dataset-for-ml-research-roadmap)
+https://www.kaggle.com/datasets/yashashree01/titanic-dataset-for-ml-research-roadmap
 
 ---
 
