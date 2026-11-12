@@ -54,51 +54,6 @@ Research combines curiosity, experimentation, and evidence-based conclusions.
 
 ---
 
-## 📚 Roadmap
-
-### Phase 1 — Research Foundations
-
-*  What is Machine Learning Research?
-*  Research Workflow
-*  Research Question Formulation
-*  Hypothesis Creation
-*  Literature Review
-*  Reading Research Papers
-*  Identifying Research Gaps
-
-### Phase 2 — Experimental Design
-
-* Dataset Selection
-* Baseline Models
-* Experimental Methodology
-* Reproducibility
-* Evaluation Metrics
-* Cross Validation
-* Statistical Testing
-
-### Phase 3 — Applied Machine Learning Research
-
-* Tabular Data Research
-* Feature Engineering Studies
-* NLP Research
-* Computer Vision Research
-* Explainable AI
-* Deep Learning Experiments
-
-### Phase 4 — Capstone Research Project
-
-An end-to-end machine learning research study including:
-
-* Problem Formulation
-* Literature Review
-* Methodology
-* Experiments
-* Statistical Validation
-* Discussion
-* Future Work
-
----
-
 ## 📂 Repository Structure
 
 ```text
