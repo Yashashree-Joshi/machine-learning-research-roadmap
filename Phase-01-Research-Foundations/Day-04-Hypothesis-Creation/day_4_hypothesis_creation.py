@@ -592,18 +592,18 @@ This notebook is part of the **Machine Learning Research Roadmap** series.
 
 ### GitHub Repository
 
-[https://github.com/Yashashree-Joshi/machine-learning-research-roadmap](http://)
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap
 
 
 ### Day 4 GitHub Chapter
 
-[https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-04-Hypothesis-Creation](http://)
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-04-Hypothesis-Creation
 
 ### Dataset Used
 
 Titanic Research Starter Pack
 
-[https://www.kaggle.com/datasets/yashashree01/titanic-dataset-for-ml-research-roadmap](http://)
+https://www.kaggle.com/datasets/yashashree01/titanic-dataset-for-ml-research-roadmap
 
 ---
 
@@ -611,11 +611,13 @@ Titanic Research Starter Pack
 
 📖 Day 3 — Research Question Formulation
 
-[https://www.kaggle.com/code/yashashree01/day-3-research-question-formulation](http://)
+https://www.kaggle.com/code/yashashree01/day-3-research-question-formulation
 
 ---
 
 ### Next Chapter
 
 🚀 Day 5 — Literature Review
+
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-05-Literature-Review
 """
