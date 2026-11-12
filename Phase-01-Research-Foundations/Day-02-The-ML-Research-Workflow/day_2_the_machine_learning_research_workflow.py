@@ -407,5 +407,7 @@ https://www.kaggle.com/datasets/yashashree01/titanic-dataset-for-ml-research-roa
 
 🚀 Day 3 — Research Question Formulation
 
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-03-Research-Question-Formulation
+
 Learn how researchers transform problems into strong, testable research questions.
 """
