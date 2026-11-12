@@ -116,7 +116,7 @@ By completing this roadmap, I aim to develop the ability to:
 ### Day 1 — What is Machine Learning Research?
 
 The first chapter introduces the mindset shift from building machine learning projects to conducting machine learning research.
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-01-What-Is-ML-Research
+[Day 1 — What is Machine Learning Research?](https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-01-What-Is-ML-Research)
 
 ---
 
