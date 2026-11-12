@@ -439,7 +439,7 @@ A strong research question should naturally lead to a strong hypothesis.
 
 A practical notebook version of this chapter will be available on Kaggle.
 
-🔗 Kaggle Notebook: *(https://www.kaggle.com/code/yashashree01/day-3-research-question-formulation)*
+🔗 Kaggle Notebook: [Day 3 — Research Question Formulation](https://www.kaggle.com/code/yashashree01/day-3-research-question-formulation)
 
 The notebook will include:
 
@@ -463,7 +463,7 @@ The notebook will include:
 ### Next Chapter
 
 ➡️ Day 4 — Hypothesis Creation
-(https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-04-Hypothesis-Creation)
+[Day 4 — Hypothesis Creation](https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-04-Hypothesis-Creation)
 
 ---
 
