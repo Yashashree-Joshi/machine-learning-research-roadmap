@@ -8,17 +8,26 @@
 
 Imagine you're working on the Titanic dataset.
 
-You train a Random Forest model and achieve **84% accuracy**.
+Suppose you train a Random Forest model and obtain **84% accuracy**. Then, you train an XGBoost model and obtain **87% accuracy**.
 
-Then you train XGBoost and achieve **87% accuracy**.
+*These numbers are hypothetical and are used only to illustrate the research process.*
 
-Most people stop here.
+Most people might stop at comparing the two accuracy scores.
 
 Researchers ask:
 
-> Why did XGBoost perform better?
+> Why did XGBoost perform better in this experiment?
 
-That single question is where **Machine Learning Research** begins.
+They investigate further:
+
+- Did the models use the same training and testing data?
+- Did hyperparameter settings affect the results?
+- Which features contributed to the predictions?
+- Would the performance difference remain consistent across different data splits?
+
+That curiosity leads to a deeper investigation.
+
+That is where machine learning research begins.
 
 ---
 
@@ -163,30 +172,33 @@ Over the next 60 days, we'll learn each step in detail.
 
 # 📊 A Mini Research Example
 
-Suppose we ask:
+Suppose we want to investigate:
 
-> Does missing-value imputation affect model performance?
+> Does the choice of missing-value imputation method affect model performance?
 
-We test three methods.
+For illustration, imagine conducting an experiment using three imputation methods while keeping the dataset, model, train-test split and evaluation procedure consistent.
 
-| Method            | Accuracy |
-| ----------------- | -------- |
-| Mean Imputation   | 81%      |
-| Median Imputation | 82%      |
-| KNN Imputation    | 85%      |
+*The following accuracy values are hypothetical and are included only to demonstrate how experimental results can be interpreted.*
 
-Result:
+| Imputation Method | Accuracy |
+|---|---:|
+| Mean Imputation | 81% |
+| Median Imputation | 82% |
+| KNN Imputation | 85% |
 
-```text
-KNN Imputation performed best
-on this dataset.
-```
+### Interpreting the Results
+
+In this hypothetical experiment, KNN Imputation achieves the highest accuracy.
+
+However, this does not prove that KNN Imputation is always the best method.
+
+The result applies only to this particular experimental setup. Further experiments, such as testing different data splits and evaluation metrics, would help determine whether the observed difference is consistent.
 
 We didn't create a new model.
 
-We created a new understanding.
+We investigated how a preprocessing choice could affect model performance.
 
-That is the essence of research.
+That is one way machine learning research generates useful insights.
 
 ---
 
