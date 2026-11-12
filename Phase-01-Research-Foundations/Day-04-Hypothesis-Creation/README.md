@@ -533,7 +533,7 @@ The notebook will include:
 
 ➡️ Day 5 — Literature Review
 
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-05-Literature-Review
+[Day 5 — Literature Review](https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-05-Literature-Review)
 
 ---
 
