@@ -706,7 +706,7 @@ Congratulations on completing **Day 7: Identifying Research Gaps!** 🎉
 
 You now know how to move beyond reading research papers and start thinking like a researcher.
 
-### ⏭️ Coming Up Next: Day 8 — Dataset Selection
+### ⏭️ Coming Up Next: Phase 2 — Experimental Design (Coming Soon)
 
 A good research idea needs the right data.
 
