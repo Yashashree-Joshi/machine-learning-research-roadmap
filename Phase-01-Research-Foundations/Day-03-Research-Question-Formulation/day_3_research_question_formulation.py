@@ -368,7 +368,7 @@ https://github.com/Yashashree-Joshi/machine-learning-research-roadmap
 
 ### Day 3 GitHub Chapter
 
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-03-Research-Question-Formulation
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-03-Research-Question-Formulation
 
 ---
 
@@ -384,7 +384,7 @@ https://www.kaggle.com/datasets/yashashree01/titanic-dataset-for-ml-research-roa
 
 📖 Day 2 — The Machine Learning Research Workflow
 
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Day-02-The-ML-Research-Workflow
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-02-The-ML-Research-Workflow
 
 ---
 
