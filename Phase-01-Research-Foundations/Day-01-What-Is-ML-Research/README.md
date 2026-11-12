@@ -258,7 +258,7 @@ Planned studies:
 - Diabetes Classification
 - Credit Card Fraud Detection
 
-(https://www.kaggle.com/code/yashashree01/day-1-what-is-machine-learning-research)
+[Day 1 — What is Machine Learning Research?](https://www.kaggle.com/code/yashashree01/day-1-what-is-machine-learning-research)
 
 ---
 
@@ -291,7 +291,7 @@ The concepts introduced in this chapter are based on foundational texts and educ
 
 Tomorrow we'll learn how researchers move from an idea to a scientifically validated conclusion.
 
-https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-02-The-ML-Research-Workflow
+[Day 2 — Machine Learning Research Workflow](https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-02-The-ML-Research-Workflow)
 
 ---
 
