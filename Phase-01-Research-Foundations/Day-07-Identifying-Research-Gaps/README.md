@@ -719,7 +719,7 @@ In the next chapter, we'll explore:
 
 **Previous:** [Day 6 — Reading Research Papers](../Day-06-Reading-Research-Papers/README.md)
 
-**Next:** [Phase 2 — Experimental Design (Coming Soon)](../../../README.md)
+**Next:** [Phase 2 — Experimental Design (Coming Soon)](../../README.md)
 
 ---
 
