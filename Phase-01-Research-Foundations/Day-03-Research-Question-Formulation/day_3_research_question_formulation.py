@@ -392,5 +392,7 @@ https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/
 
 🚀 Day 4 — Hypothesis Creation
 
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-04-Hypothesis-Creation
+
 Learn how researchers transform research questions into testable hypotheses using null and alternative hypotheses, predictions, and experimental design.
 """
