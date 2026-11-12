@@ -662,6 +662,8 @@ The notebook will include:
 
 ➡️ Day 6 — Reading Research Papers
 
+https://github.com/Yashashree-Joshi/machine-learning-research-roadmap/tree/main/Phase-01-Research-Foundations/Day-06-Reading-Research-Papers
+
 ---
 
 ## 📚 Machine Learning Research Roadmap
