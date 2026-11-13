@@ -166,7 +166,7 @@ Every research study follows a structured process.
 🔍 Insight
 ```
 
-Over the next 60 days, we'll learn each step in detail.
+Throughout this roadmap, we'll explore each step of the machine learning research process, from formulating a research question to designing experiments and evaluating results.
 
 ---
 
