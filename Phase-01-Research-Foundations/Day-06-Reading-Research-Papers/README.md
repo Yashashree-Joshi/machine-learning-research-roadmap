@@ -456,5 +456,3 @@ The concepts, strategies, and best practices presented in this chapter are based
 
 **Note:** This chapter provides a beginner-friendly guide to reading research papers efficiently. The Three-Pass Reading Strategy is adapted from S. Keshav's *How to Read a Paper* (2007), while the remaining guidance is informed by established research methodology texts, scientific writing resources, and academic publishing best practices. Readers are encouraged to explore the original references for a deeper understanding of research paper analysis and critical reading techniques.
 
-
-Every section of a research paper has a specific purpose. Understanding what each section is meant to communicate allows you to read papers more efficiently instead of treating every page with equal importance.
