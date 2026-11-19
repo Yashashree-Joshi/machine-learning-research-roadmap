@@ -156,15 +156,18 @@ train.isnull().sum().sort_values(ascending=False)
 
 """# ⚙️ Experiment Design
 
-To test our hypothesis, we will build a baseline model using a selected set of features.
+To investigate our hypothesis, we will compare two Logistic Regression experiments using the same training and test split:
 
-Future chapters will compare this model against alternative feature-selection strategies.
+- A baseline model using all available candidate features.
+- A model using the five highest-scoring encoded features selected by SelectKBest.
+
+Preprocessing and feature selection will be fitted using the training data only to avoid information from the test set influencing the experiment.
 
 ---
 
 ## Evaluation Metric
 
-We will use:
+We will compare both models using:
 
 - Accuracy
 - F1 Score
@@ -224,119 +227,100 @@ This process demonstrates an important research principle:
 > Data-driven decisions should be justified using evidence.
 """
 
-# Select features for our baseline model
-
-features = [
-    "Pclass",
-    "Sex",
-    "Age",
-    "SibSp",
-    "Parch",
-    "Fare",
-    "Embarked"
-]
-
-train_model = train[features + ["Survived"]].copy()
-
-train_model.head()
-
-# Handle missing values
-
-train_model["Age"] = train_model["Age"].fillna(
-    train_model["Age"].median()
-)
-
-train_model["Embarked"] = train_model["Embarked"].fillna(
-    train_model["Embarked"].mode()[0]
-)
-
-# Convert categorical features
-
-train_model["Sex"] = train_model["Sex"].map(
-    {"male": 0, "female": 1}
-)
-
-train_model = pd.get_dummies(
-    train_model,
-    columns=["Embarked"],
-    drop_first=True
-)
-
-train_model.head()
-
-"""# 🤖 Baseline Model
-
-We now train our first machine learning model.
-
-This serves as a baseline against which future experiments can be compared.
-
-For simplicity, we will use Logistic Regression.
-"""
-
 from sklearn.model_selection import train_test_split
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.impute import SimpleImputer
+from sklearn.pipeline import Pipeline
+from sklearn.feature_selection import SelectKBest, f_classif
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, f1_score
 
-# Features and target
+# Define candidate features
+numeric_features = ["Pclass", "Age", "SibSp", "Parch", "Fare"]
+categorical_features = ["Sex", "Embarked"]
+features = numeric_features + categorical_features
 
-X = train_model.drop("Survived", axis=1)
-y = train_model["Survived"]
+X = train[features].copy()
+y = train["Survived"]
 
-# Train-test split
-
+# Split before fitting preprocessing or feature selection
 X_train, X_test, y_train, y_test = train_test_split(
     X,
     y,
     test_size=0.2,
-    random_state=42
+    random_state=42,
+    stratify=y
 )
 
-# Train model
+# Preprocessing for numerical features
+numeric_transformer = Pipeline(steps=[
+    ("imputer", SimpleImputer(strategy="median")),
+    ("scaler", StandardScaler())
+])
 
-model = LogisticRegression(max_iter=1000)
+# Preprocessing for categorical features
+categorical_transformer = Pipeline(steps=[
+    ("imputer", SimpleImputer(strategy="most_frequent")),
+    ("encoder", OneHotEncoder(handle_unknown="ignore"))
+])
 
-model.fit(X_train, y_train)
+preprocessor = ColumnTransformer(transformers=[
+    ("num", numeric_transformer, numeric_features),
+    ("cat", categorical_transformer, categorical_features)
+])
 
-# Predictions
+# Experiment A: Baseline using all encoded features
+baseline_model = Pipeline(steps=[
+    ("preprocessor", preprocessor),
+    ("classifier", LogisticRegression(max_iter=1000))
+])
 
-y_pred = model.predict(X_test)
+baseline_model.fit(X_train, y_train)
+baseline_predictions = baseline_model.predict(X_test)
 
-# Metrics
+# Experiment B: Select the five highest-scoring encoded features
+selected_model = Pipeline(steps=[
+    ("preprocessor", preprocessor),
+    ("feature_selection", SelectKBest(score_func=f_classif, k=5)),
+    ("classifier", LogisticRegression(max_iter=1000))
+])
 
-accuracy = accuracy_score(y_test, y_pred)
-f1 = f1_score(y_test, y_pred)
+selected_model.fit(X_train, y_train)
+selected_predictions = selected_model.predict(X_test)
 
-print("Accuracy:", round(accuracy, 4))
-print("F1 Score:", round(f1, 4))
+# Compare both experiments on the same held-out test set
+results = pd.DataFrame({
+    "Model": ["Baseline (All Features)", "Feature Selected (5 Encoded Features)"],
+    "Accuracy": [
+        accuracy_score(y_test, baseline_predictions),
+        accuracy_score(y_test, selected_predictions)
+    ],
+    "F1 Score": [
+        f1_score(y_test, baseline_predictions),
+        f1_score(y_test, selected_predictions)
+    ]
+})
+
+print(results.round(4))
 
 """# 📈 Evaluation
 
-Our baseline Logistic Regression model achieved:
+The comparison table above reports the Accuracy and F1 Score for both experiments on the same held-out test set.
 
-| Metric | Score |
-|----------|----------|
-| Accuracy | 0.8101 |
-| F1 Score | 0.7639 |
+Compare the two rows to see whether selecting five encoded features changed the model's performance.
 
----
-
-## What Do These Results Mean?
-
-The model correctly predicted survival outcomes for approximately 81% of passengers in the test set.
-
-The F1 Score of 0.7639 indicates a good balance between precision and recall.
+A higher score in this single split is an observation, not proof that feature selection will always improve performance. Further validation, such as cross-validation, would be needed before making a broader claim.
 
 ---
 
 ## Research Perspective
 
-The goal of this experiment was not to achieve the highest possible score.
+The goal of this experiment is not to achieve the highest possible score.
 
-The goal was to establish a baseline model that future experiments can improve upon.
+The goal is to compare a baseline with a feature-selected model using a consistent evaluation process.
 
-Researchers rarely begin with the best model.
-
-They begin with a reproducible baseline and then test hypotheses through systematic experimentation.
+Researchers use controlled comparisons to understand whether a change in the experiment is associated with a change in results.
 
 # 🔍 Conclusion
 
