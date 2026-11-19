@@ -393,6 +393,8 @@ A matrix helps compare studies efficiently.
 
 ## Example Matrix
 
+*The entries below are fictional examples created to demonstrate how a literature review matrix is organized. They are not findings extracted from actual published papers.*
+
 | Paper | Research Problem | Dataset | Method | Key Findings | Limitations |
 |---------|---------|---------|---------|---------|---------|
 | Paper A | Titanic Survival Prediction | Titanic | Logistic Regression | Good baseline performance | Limited feature engineering |
@@ -414,6 +416,8 @@ A literature review matrix helps researchers:
 ---
 
 # 📝 Example Literature Review
+
+*The review below is an illustrative example, not a summary of a verified set of published studies. In an actual literature review, each finding should be supported by the papers you have read.*
 
 Suppose we are interested in:
 
