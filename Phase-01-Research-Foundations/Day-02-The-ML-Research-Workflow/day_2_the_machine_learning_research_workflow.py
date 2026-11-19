@@ -170,6 +170,8 @@ Preprocessing and feature selection will be fitted using the training data only 
 We will compare both models using:
 
 - Accuracy
+- Precision
+- Recall
 - F1 Score
 
 """
@@ -234,7 +236,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.feature_selection import SelectKBest, f_classif
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, f1_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
 # Define candidate features
 numeric_features = ["Pclass", "Age", "SibSp", "Parch", "Fare"]
@@ -296,6 +298,14 @@ results = pd.DataFrame({
         accuracy_score(y_test, baseline_predictions),
         accuracy_score(y_test, selected_predictions)
     ],
+    "Precision": [
+        precision_score(y_test, baseline_predictions),
+        precision_score(y_test, selected_predictions)
+    ],
+    "Recall": [
+        recall_score(y_test, baseline_predictions),
+        recall_score(y_test, selected_predictions)
+    ],
     "F1 Score": [
         f1_score(y_test, baseline_predictions),
         f1_score(y_test, selected_predictions)
@@ -306,7 +316,7 @@ print(results.round(4))
 
 """# 📈 Evaluation
 
-The comparison table above reports the Accuracy and F1 Score for both experiments on the same held-out test set.
+The comparison table above reports Accuracy, Precision, Recall, and F1 Score for both experiments on the same held-out test set.
 
 Compare the two rows to see whether selecting five encoded features changed the model's performance.
 
