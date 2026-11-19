@@ -65,7 +65,7 @@ Problems:
 
 ### ✅ Better Question
 
-Does passenger age influence survival probability?
+Is passenger age associated with survival probability?
 
 Why?
 
@@ -93,7 +93,7 @@ train[["Age", "Survived"]].head()
 train.groupby("Survived")["Age"].mean()
 
 """Question:
-Does age influence survival?
+Is age associated with survival?
 
 ↓
 
@@ -118,7 +118,7 @@ train.groupby("Sex")["Survived"].mean().sort_values(ascending=False)
 
 """### Observation
 
-If survival rates differ between males and females, this suggests that gender may influence survival outcomes.
+If survival rates differ between males and females, this suggests that gender may be associated with survival outcomes.
 
 ### Possible Research Questions
 
@@ -128,7 +128,7 @@ Can machine learning predict survival?
 
 ✅ Better Question
 
-Does passenger gender influence survival probability?
+Is passenger gender associated with survival probability?
 
 ✅ Strong Research Question
 
@@ -142,7 +142,7 @@ train.groupby("Survived")["Age"].mean()
 
 """# 👶 Age and Survival
 
-Researchers often investigate whether age influences outcomes.
+Researchers often investigate whether age is associated with outcomes.
 
 ### Observation
 
@@ -163,7 +163,7 @@ Problems:
 
 ✅ Better Question
 
-Does passenger age influence survival probability?
+Is passenger age associated with survival probability?
 
 ---
 
@@ -183,7 +183,7 @@ train.groupby("Pclass")["Survived"].mean().sort_values(ascending=False)
 
 """# 🎟️ Passenger Class and Survival
 
-Passenger class may influence access to resources, cabin location, and evacuation opportunities.
+Passenger class may be associated with differences in access to resources, cabin location, and evacuation opportunities.
 
 ### Observation
 
@@ -205,7 +205,7 @@ Problems:
 
 ✅ Better Question
 
-Does passenger class influence survival probability?
+Is passenger class associated with survival probability?
 
 ---
 
@@ -251,7 +251,7 @@ Instead of:
 
 Ask:
 
-"Does passenger gender influence survival probability?"
+"Is passenger gender associated with survival probability?"
 
 ↓
 
