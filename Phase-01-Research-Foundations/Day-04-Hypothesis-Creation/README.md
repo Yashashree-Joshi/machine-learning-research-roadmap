@@ -34,7 +34,7 @@ Women happened to be younger on average.
 
 ### Explanation C
 
-Passenger class influenced the outcome rather than gender.
+Passenger class was associated with the outcome rather than gender.
 
 ---
 
@@ -137,7 +137,7 @@ Female passengers appear to survive more often than male passengers.
 
 Example:
 
-Does passenger gender influence survival probability?
+Is passenger gender associated with survival probability?
 
 ---
 
@@ -153,7 +153,7 @@ Female passengers will have a higher survival probability than male passengers.
 
 Example:
 
-Passenger gender significantly influences survival probability.
+Passenger gender is associated with survival probability.
 
 ---
 
@@ -183,7 +183,7 @@ Older passengers appear less likely to survive.
 
 Research Question:
 
-Does age influence survival probability?
+Is passenger age associated with survival probability?
 
 Prediction:
 
@@ -191,7 +191,7 @@ Younger passengers will have higher survival rates.
 
 Hypothesis:
 
-Passenger age significantly influences survival probability.
+Passenger age is associated with survival outcomes.
 
 ---
 
@@ -229,7 +229,7 @@ The alternative hypothesis assumes that an effect or relationship exists.
 ### Titanic Example
 
 ```text
-Passenger gender influences survival probability.
+Passenger gender is associated with survival probability.
 ```
 
 ---
@@ -269,7 +269,7 @@ Research is about collecting evidence and determining which statement is better 
 Research Question:
 
 ```text
-Does passenger class influence survival probability?
+Is passenger class associated with survival probability?
 ```
 
 ---
@@ -285,7 +285,7 @@ Passenger class has no effect on survival probability.
 ### Step 2 — Create H₁
 
 ```text
-Passenger class influences survival probability.
+Passenger class is associated with survival probability.
 ```
 
 ---
@@ -295,7 +295,7 @@ Passenger class influences survival probability.
 Research Question:
 
 ```text
-Does age influence survival probability?
+Is passenger age associated with survival probability?
 ```
 
 ### H₀
@@ -307,7 +307,7 @@ Age has no effect on survival probability.
 ### H₁
 
 ```text
-Age influences survival probability.
+Passenger age is associated with survival probability.
 ```
 
 ---
@@ -338,13 +338,13 @@ Many beginners struggle with hypothesis creation.
 Question:
 
 ```text
-Does passenger gender influence survival probability?
+Is passenger gender associated with survival probability?
 ```
 
 Hypothesis:
 
 ```text
-Passenger gender influences survival probability.
+Passenger gender is associated with survival probability.
 ```
 
 A question is not a hypothesis.
@@ -378,7 +378,7 @@ Age is important.
 Better:
 
 ```text
-Passenger age significantly influences survival probability.
+Passenger age is associated with survival outcomes.
 ```
 
 ---
@@ -399,7 +399,7 @@ Using the Titanic dataset, create hypotheses for the following research question
 
 ## Question 1
 
-Does passenger age influence survival probability?
+Is passenger age associated with survival probability?
 
 ### Your Hypothesis
 
@@ -409,7 +409,7 @@ _____________________________
 
 ## Question 2
 
-Does passenger class influence survival probability?
+Is passenger class associated with survival probability?
 
 ### Your Hypothesis
 
@@ -419,7 +419,7 @@ _____________________________
 
 ## Question 3
 
-Does passenger gender influence survival probability?
+Is passenger gender associated with survival probability?
 
 ### Your Hypothesis
 
