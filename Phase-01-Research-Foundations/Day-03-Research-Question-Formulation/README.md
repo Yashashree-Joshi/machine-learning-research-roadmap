@@ -35,7 +35,7 @@ A research question is a specific problem that can be investigated.
 |---------|---------|
 | Titanic Dataset | Does feature selection improve Titanic survival prediction performance? |
 | Healthcare | Can machine learning predict diabetes risk using demographic data? |
-| Education | Does student attendance influence academic performance? |
+| Education | Is student attendance associated with academic performance? |
 | Finance | Can transaction patterns improve fraud detection accuracy? |
 
 ---
@@ -190,7 +190,7 @@ Which factors affect academic performance?
 ### Research Question
 
 ```text
-Does student attendance significantly influence academic performance?
+Is student attendance significantly associated with academic performance?
 ```
 
 ---
