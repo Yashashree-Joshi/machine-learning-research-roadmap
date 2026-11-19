@@ -106,17 +106,19 @@ Survived
 
 ## ⚙️ Experiment
 
-Compare:
+Compare two Logistic Regression models:
 
 ```text
-Random Forest using all features
+Baseline using all encoded candidate features
 ```
 
 vs
 
 ```text
-Random Forest using selected features
+Feature-selected model using the five highest-scoring encoded features
 ```
+
+Both models use the same train-test split. Preprocessing and feature selection are fitted on the training data only.
 
 ---
 
@@ -133,9 +135,7 @@ Measure:
 
 ## 🔍 Conclusion
 
-If the selected-feature model performs better, the hypothesis is supported.
-
-Otherwise, the hypothesis is rejected.
+Compare the Accuracy and F1 Score of both models. The results from this single train-test split provide preliminary evidence about the effect of feature selection; they do not establish that it will always improve performance.
 
 ---
 
@@ -268,10 +268,10 @@ Titanic Dataset
 
 **Experiment Plan**
 
-Compare Random Forest using:
+Compare Logistic Regression using:
 
-- All features
-- Selected features
+- All encoded candidate features
+- The five highest-scoring encoded features
 
 **Evaluation Metric**
 
