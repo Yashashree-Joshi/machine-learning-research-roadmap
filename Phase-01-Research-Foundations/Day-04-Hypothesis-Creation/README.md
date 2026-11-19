@@ -71,7 +71,7 @@ Analyze survival rates
 
 ↓
 
-Accept or reject the prediction
+Reject or fail to reject the null hypothesis (H₀)
 
 ---
 
