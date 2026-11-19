@@ -51,7 +51,7 @@ Survival rates differ between male and female passengers.
 
 ### Research Question
 
-Does passenger gender influence survival probability?
+Is passenger gender associated with survival probability?
 
 ### Prediction
 
@@ -59,7 +59,7 @@ Female passengers will have higher survival rates.
 
 ### Hypothesis
 
-Passenger gender significantly influences survival probability.
+Passenger gender is associated with survival probability.
 
 ---
 
@@ -77,7 +77,7 @@ Passenger gender has no effect on survival probability.
 
 ### H₁ (Alternative Hypothesis)
 
-Passenger gender influences survival probability.
+Passenger gender is associated with survival probability.
 
 The goal of research is to determine which statement is better supported by evidence.
 """
@@ -122,7 +122,7 @@ Reject H₀ or Fail to Reject H₀
 
 Researchers do not prove H₁.
 
-Instead, they gather enough evidence to reject H₀.
+They use statistical evidence to decide whether to reject H₀ or fail to reject it. Failing to reject H₀ does not prove that H₀ is true.
 
 # 🧮 Mathematical Representation of Hypotheses
 
@@ -236,7 +236,7 @@ The difference is substantial.
 
 ## Step 2 — Research Question
 
-Does passenger gender influence survival probability?
+Is passenger gender associated with survival probability?
 
 ---
 
@@ -248,7 +248,7 @@ Female passengers may have a higher probability of survival than male passengers
 
 ## Step 4 — Hypothesis
 
-Passenger gender significantly influences survival probability.
+Passenger gender is associated with survival probability.
 
 ---
 
@@ -264,7 +264,7 @@ Passenger gender has no effect on survival probability.
 
 p_male ≠ p_female
 
-Passenger gender influences survival probability.
+Passenger gender is associated with survival probability.
 
 ---
 
@@ -305,7 +305,7 @@ The two values are different.
 
 ## Step 2 — Research Question
 
-Does passenger age influence survival probability?
+Is passenger age associated with survival probability?
 
 ---
 
@@ -317,7 +317,7 @@ Younger passengers may have a higher chance of survival than older passengers.
 
 ## Step 4 — Hypothesis
 
-Passenger age significantly influences survival probability.
+Passenger age is associated with survival outcomes.
 
 ---
 
@@ -333,7 +333,7 @@ Passenger age has no effect on survival.
 
 μ_survived ≠ μ_not_survived
 
-Passenger age influences survival.
+Passenger age is associated with survival status.
 
 ---
 
@@ -361,7 +361,7 @@ This suggests that passenger class may be related to survival outcomes.
 
 ## Step 2 — Research Question
 
-Does passenger class influence survival probability?
+Is passenger class associated with survival probability?
 
 ---
 
@@ -373,7 +373,7 @@ Passengers in higher classes may have a higher probability of survival than pass
 
 ## Step 4 — Hypothesis
 
-Passenger class significantly influences survival probability.
+Passenger class is associated with survival probability.
 
 ---
 
